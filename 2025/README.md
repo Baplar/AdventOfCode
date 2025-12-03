@@ -1,0 +1,4 @@
+# Advent of Code 2025 - Baplar's ProtoFlux solutions
+
+## Resonite folder
+resrec:///U-1Udo02hMUFc/R-94096198D5E7ED98C57FB53E4C6997FB0A3E52C235B433E2A362A0C3F2BBCC6E
